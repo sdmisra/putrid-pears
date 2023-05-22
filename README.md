@@ -30,6 +30,8 @@ Run 'npm run cypress' from the terminal while within the main directory of the a
 <img width="1425" alt="Screenshot 2023-05-21 at 5 33 27 PM" src="https://github.com/BriBourassa/putrid-pears/assets/117242156/11d41f51-4493-4b05-98bc-43e8afa2b91c">
 <img width="1420" alt="Screenshot 2023-05-21 at 5 33 41 PM" src="https://github.com/BriBourassa/putrid-pears/assets/117242156/a1dc64dd-a74a-458e-8224-98d43999d4f7">
 
+Our project is deployed live via: [Netlify](https://putridpears.netlify.app)
+
 
 ## Context:
 [//]: <>
@@ -37,7 +39,7 @@ This project was assigned in module 3 for the Frontend Program, this work was co
 
 ## Contributors:
 [//]: <>
-[Bri Bourassa](https://github.com/BriBourassa)
+[Bri Bourassa](https://github.com/BriBourassa) /
 [Shane Misra](https://github.com/sdmisra)
 
 ## Learning Goals:
